@@ -2,3 +2,19 @@ h1 {
   color: grey;
 }
 
+.center {
+  margin: 0;
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
+.centertext {
+  text-align: center;
+}
+
+.image {
+  padding: 20px;
+}
+
